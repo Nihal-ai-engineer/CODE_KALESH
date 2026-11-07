@@ -1,0 +1,23 @@
+{
+  "city": "Chandigarh",
+  "city_slug": "chandigarh",
+  "state": "Chandigarh (UT)",
+  "display_name": "Chandigarh",
+  "generated_at": "2024-Q4",
+  "charger_source": "CREST / Tata Power / Statiq / ChargeZone / Jio-bp / Fortum — Curated Reference Dataset",
+  "charger_count": 25,
+  "h3_resolution": 9,
+  "data_completeness": {
+    "boundary": true,
+    "roads": true,
+    "pois": true,
+    "chargers": true,
+    "traffic": false,
+    "grid_capacity": false,
+    "land_price": false,
+    "charger_utilization": false
+  },
+  "osm_data_date": "2024-Q4",
+  "study_area_km2": 114,
+  "offline_ready": true
+}

@@ -1,0 +1,147 @@
+{
+  "cities": [
+    {
+      "slug": "chandigarh",
+      "name": "Chandigarh",
+      "state": "Chandigarh (UT)",
+      "lat": 30.7333,
+      "lon": 76.7794,
+      "population_approx": 1200000,
+      "area_km2": 114,
+      "offline_ready": true,
+      "osm_query": "Chandigarh, India"
+    },
+    {
+      "slug": "ludhiana",
+      "name": "Ludhiana",
+      "state": "Punjab",
+      "lat": 30.9010,
+      "lon": 75.8573,
+      "population_approx": 1600000,
+      "area_km2": 159,
+      "offline_ready": true,
+      "osm_query": "Ludhiana, Punjab, India"
+    },
+    {
+      "slug": "delhi_ncr",
+      "name": "Delhi NCR",
+      "state": "Delhi",
+      "lat": 28.6139,
+      "lon": 77.2090,
+      "population_approx": 32000000,
+      "area_km2": 1484,
+      "offline_ready": false,
+      "osm_query": "New Delhi, Delhi, India"
+    },
+    {
+      "slug": "bengaluru",
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "lat": 12.9716,
+      "lon": 77.5946,
+      "population_approx": 13200000,
+      "area_km2": 741,
+      "offline_ready": false,
+      "osm_query": "Bengaluru, Karnataka, India"
+    },
+    {
+      "slug": "mumbai",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0760,
+      "lon": 72.8777,
+      "population_approx": 21000000,
+      "area_km2": 603,
+      "offline_ready": false,
+      "osm_query": "Mumbai, Maharashtra, India"
+    },
+    {
+      "slug": "hyderabad",
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "lat": 17.3850,
+      "lon": 78.4867,
+      "population_approx": 10500000,
+      "area_km2": 650,
+      "offline_ready": false,
+      "osm_query": "Hyderabad, Telangana, India"
+    },
+    {
+      "slug": "pune",
+      "name": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5204,
+      "lon": 73.8567,
+      "population_approx": 7400000,
+      "area_km2": 331,
+      "offline_ready": false,
+      "osm_query": "Pune, Maharashtra, India"
+    },
+    {
+      "slug": "chennai",
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "population_approx": 11500000,
+      "area_km2": 426,
+      "offline_ready": false,
+      "osm_query": "Chennai, Tamil Nadu, India"
+    },
+    {
+      "slug": "kolkata",
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "lat": 22.5726,
+      "lon": 88.3639,
+      "population_approx": 15100000,
+      "area_km2": 205,
+      "offline_ready": false,
+      "osm_query": "Kolkata, West Bengal, India"
+    },
+    {
+      "slug": "ahmedabad",
+      "name": "Ahmedabad",
+      "state": "Gujarat",
+      "lat": 23.0225,
+      "lon": 72.5714,
+      "population_approx": 8400000,
+      "area_km2": 464,
+      "offline_ready": false,
+      "osm_query": "Ahmedabad, Gujarat, India"
+    },
+    {
+      "slug": "jaipur",
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "lat": 26.9124,
+      "lon": 75.7873,
+      "population_approx": 4100000,
+      "area_km2": 467,
+      "offline_ready": false,
+      "osm_query": "Jaipur, Rajasthan, India"
+    },
+    {
+      "slug": "lucknow",
+      "name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "lat": 26.8467,
+      "lon": 80.9462,
+      "population_approx": 3700000,
+      "area_km2": 349,
+      "offline_ready": false,
+      "osm_query": "Lucknow, Uttar Pradesh, India"
+    },
+    {
+      "slug": "gurugram",
+      "name": "Gurugram",
+      "state": "Haryana",
+      "lat": 28.4595,
+      "lon": 77.0266,
+      "population_approx": 1500000,
+      "area_km2": 258,
+      "offline_ready": false,
+      "osm_query": "Gurugram, Haryana, India"
+    }
+  ]
+}

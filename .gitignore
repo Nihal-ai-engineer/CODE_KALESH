@@ -1,0 +1,25 @@
+
+# Local secrets, data and generated files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*recovery-key*
+Client_Google.json
+.data/
+node_modules/
+.venv*/
+__pycache__/
+.pytest_cache/
+.idea/
+dist/
+test-results/
+.DS_Store
+*.log
+cache/
+.ai_cache/
+*.egg-info/
+*.gpkg
+debug_roads.txt
+analysis_cache.json
